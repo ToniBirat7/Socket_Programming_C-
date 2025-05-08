@@ -6,6 +6,14 @@
 
 [Sunway_GPT_Query_Socket_Programming](https://chatgpt.com/share/681ccd56-ee6c-8013-94f3-a1fa2b95e2ed)
 
+**Computer Architecture, Networking Basics**
+
+[BestChannel](https://www.youtube.com/@NicholasDayPhD/playlists)
+
+**C++**
+
+[BestChannel](https://www.youtube.com/playlist?list=PL9HfA4ZKbzimKyvquT1MZ2x9d6UHjFNFA)
+
 ## **Possible Project Integration**
 
 **Distributed GPU Resource Sharing Network (Related to Your Ongoing Project)**
