@@ -10,6 +10,10 @@
 
 [BestChannel](https://www.youtube.com/@NicholasDayPhD/playlists)
 
+[Networking_Basics](https://www.youtube.com/playlist?list=PL9HfA4ZKbzikcSjI1a1YC3hhG5mQe-VwH)
+
+[Networking_Systems](https://www.youtube.com/playlist?list=PL9HfA4ZKbzimaU3Bo7P8B_fF6aUoqK_UO)
+
 **Learning C++**
 
 [BestChannel](https://www.youtube.com/playlist?list=PL9HfA4ZKbzimKyvquT1MZ2x9d6UHjFNFA)
