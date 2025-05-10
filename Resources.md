@@ -10,7 +10,7 @@
 
 [BestChannel](https://www.youtube.com/@NicholasDayPhD/playlists)
 
-**C++**
+**Learning C++**
 
 [BestChannel](https://www.youtube.com/playlist?list=PL9HfA4ZKbzimKyvquT1MZ2x9d6UHjFNFA)
 
